@@ -1,0 +1,43 @@
+# Customer Churn Analysis
+
+## 📊 Project Overview
+This project analyzes customer behavior data to identify patterns behind customer churn (cancellation of subscriptions). The goal is to understand why customers leave and suggest ways to improve retention.
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+## 📌 Steps Performed
+1. Imported and cleaned the dataset
+2. Performed Exploratory Data Analysis (EDA)
+3. Analyzed customer churn distribution
+4. Studied relationship between churn and features like tenure and monthly charges
+5. Visualized important patterns using graphs
+6. Extracted insights from data
+
+---
+
+## 📈 Key Insights
+- Customers with low tenure are more likely to churn
+- Higher monthly charges increase churn probability
+- Low engagement customers tend to leave more often
+
+---
+
+## 💡 Recommendations
+- Offer discounts for new customers
+- Improve onboarding experience
+- Provide loyalty rewards for long-term users
+- Introduce flexible pricing plans
+
+---
+
+## 🚀 Outcome
+This analysis helps identify key factors affecting customer retention and provides actionable insights to reduce churn rate.
